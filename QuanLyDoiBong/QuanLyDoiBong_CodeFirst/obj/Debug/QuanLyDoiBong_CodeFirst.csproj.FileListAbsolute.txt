@@ -1,0 +1,28 @@
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\bin\Debug\QuanLyDoiBong_CodeFirst.dll.config
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\bin\Debug\QuanLyDoiBong_CodeFirst.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\bin\Debug\QuanLyDoiBong_CodeFirst.pdb
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\bin\Debug\EntityFramework.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\bin\Debug\EntityFramework.xml
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\obj\Debug\QuanLyDoiBong_CodeFirst.csproj.CoreCompileInputs.cache
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\obj\Debug\QuanLyDoiBong_CodeFirst.csproj.CopyComplete
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\obj\Debug\QuanLyDoiBong_CodeFirst.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\obj\Debug\QuanLyDoiBong_CodeFirst.pdb
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\obj\Debug\QuanLyDoiBong_CodeFirst.csprojAssemblyReference.cache
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\obj\Debug\QuanLyDoiBong_CodeFirst.Migrations.TaoCSDLV1.resources
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\obj\Debug\QuanLyDoiBong_CodeFirst.csproj.GenerateResource.cache
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\bin\Debug\QuanLyDoiBong_CodeFirst.dll.config
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\bin\Debug\QuanLyDoiBong_CodeFirst.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\bin\Debug\QuanLyDoiBong_CodeFirst.pdb
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\bin\Debug\EntityFramework.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\bin\Debug\EntityFramework.xml
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\obj\Debug\QuanLyDoiBong_CodeFirst.csprojAssemblyReference.cache
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\obj\Debug\QuanLyDoiBong_CodeFirst.Migrations.TaoCSDLV1.resources
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\obj\Debug\QuanLyDoiBong_CodeFirst.csproj.GenerateResource.cache
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\obj\Debug\QuanLyDoiBong_CodeFirst.csproj.CoreCompileInputs.cache
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\obj\Debug\QuanLyDoiBong_CodeFirst.csproj.CopyComplete
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\obj\Debug\QuanLyDoiBong_CodeFirst.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong_CodeFirst\obj\Debug\QuanLyDoiBong_CodeFirst.pdb

@@ -1,0 +1,34 @@
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\DLL\obj\Debug\DLL.csprojAssemblyReference.cache
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\DLL\bin\Debug\DLL.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\DLL\bin\Debug\DLL.pdb
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\DLL\bin\Debug\Entities.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\DLL\bin\Debug\QuanLyDoiBong_CodeFirst.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\DLL\bin\Debug\Entities.pdb
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\DLL\bin\Debug\QuanLyDoiBong_CodeFirst.pdb
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\DLL\bin\Debug\QuanLyDoiBong_CodeFirst.dll.config
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\DLL\obj\Debug\DLL.csproj.CopyComplete
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\DLL\obj\Debug\DLL.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\DLL\obj\Debug\DLL.pdb
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\DLL\bin\Debug\DLL.dll.config
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\DLL\bin\Debug\EntityFramework.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\DLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\DLL\bin\Debug\EntityFramework.xml
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\DLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\DLL\bin\Debug\DLL.dll.config
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\DLL\bin\Debug\DLL.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\DLL\bin\Debug\DLL.pdb
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\DLL\bin\Debug\Entities.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\DLL\bin\Debug\EntityFramework.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\DLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\DLL\bin\Debug\QuanLyDoiBong_CodeFirst.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\DLL\bin\Debug\Entities.pdb
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\DLL\bin\Debug\QuanLyDoiBong_CodeFirst.pdb
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\DLL\bin\Debug\QuanLyDoiBong_CodeFirst.dll.config
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\DLL\bin\Debug\EntityFramework.xml
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\DLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\DLL\obj\Debug\DLL.csprojAssemblyReference.cache
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\DLL\obj\Debug\DLL.csproj.CopyComplete
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\DLL\obj\Debug\DLL.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\DLL\obj\Debug\DLL.pdb

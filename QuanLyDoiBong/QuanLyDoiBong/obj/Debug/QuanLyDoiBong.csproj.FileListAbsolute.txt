@@ -1,0 +1,96 @@
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\QuanLyDoiBong.dll.config
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\QuanLyDoiBong.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\QuanLyDoiBong.pdb
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\csc.exe
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\csc.exe.config
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\csc.rsp
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\csi.exe
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\csi.rsp
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\System.AppContext.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\System.Collections.Immutable.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\System.IO.FileSystem.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\System.Reflection.Metadata.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\vbc.exe
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\vbc.exe.config
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\vbc.rsp
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\VBCSCompiler.exe
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\VBCSCompiler.exe.config
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\Entities.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\Entities.pdb
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csprojAssemblyReference.cache
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csproj.CoreCompileInputs.cache
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csproj.CopyComplete
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.pdb
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\DLL.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\QuanLyDoiBong_CodeFirst.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\EntityFramework.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\DLL.pdb
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\QuanLyDoiBong_CodeFirst.pdb
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\QuanLyDoiBong_CodeFirst.dll.config
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\DLL.dll.config
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\EntityFramework.xml
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\EntityFramework.SqlServer.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\QuanLyDoiBong\bin\EntityFramework.SqlServer.xml
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\QuanLyDoiBong.dll.config
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\QuanLyDoiBong.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\QuanLyDoiBong.pdb
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\csc.exe
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\csc.exe.config
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\csc.rsp
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\csi.exe
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\csi.rsp
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\System.AppContext.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\System.Collections.Immutable.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\System.IO.FileSystem.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\System.Reflection.Metadata.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\vbc.exe
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\vbc.exe.config
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\vbc.rsp
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\VBCSCompiler.exe
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\roslyn\VBCSCompiler.exe.config
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\DLL.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\Entities.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\EntityFramework.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\EntityFramework.SqlServer.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\QuanLyDoiBong_CodeFirst.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\DLL.pdb
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\DLL.dll.config
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\Entities.pdb
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\EntityFramework.xml
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\EntityFramework.SqlServer.xml
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\QuanLyDoiBong_CodeFirst.pdb
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\bin\QuanLyDoiBong_CodeFirst.dll.config
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csprojAssemblyReference.cache
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csproj.CoreCompileInputs.cache
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csproj.CopyComplete
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.pdb

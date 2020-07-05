@@ -1,0 +1,11 @@
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\Entities\bin\Debug\Entities.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\Entities\bin\Debug\Entities.pdb
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\Entities\obj\Debug\Entities.dll
+E:\N\ki 2 2019\Kien truc\ThucHanh\n-Tier\QuanLyDoiBong\Entities\obj\Debug\Entities.pdb
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\Entities\bin\Debug\Entities.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\Entities\bin\Debug\Entities.pdb
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\Entities\obj\Debug\Entities.dll
+D:\MonHoc\KienTrucPhanMem\QuanLyDoiBong\QuanLyDoiBong\Entities\obj\Debug\Entities.pdb
